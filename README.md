@@ -72,21 +72,36 @@ Swift
 
 326.PowerOfThree
 
-342.PowerOfFour\n
+342.PowerOfFour
+
 344.ReverseString
+
 349.IntersectionOfTwoArrays
+
 350.IntersectionOfTwoArraysII
+
 384.ShuffleAnArray
+
 387.FirstUniqueCharacterInAString
+
 412.FizzBuzz
+
 414.ThirdMaximumNumber
+
 485.MaxConsecutiveOnes
+
 704.BinarySearch
+
 728.SelfDividingNumbers
+
 733.FloodFill
+
 747.LargestNumberAtLeastTwiceofOthers
+
 830.PositionsOfLargeGroups
+
 821.ShortestDistanceToACharacter
+
 896.MonotonicArray
 922.SortArrayByParityII
 941.ValidMountainArray
