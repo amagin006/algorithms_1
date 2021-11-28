@@ -23,3 +23,6 @@ function hasCycle(head: ListNode | null): boolean {
   }
   return false;
 }
+
+// time complexty: O(n)
+// space compelxty: O(1)
