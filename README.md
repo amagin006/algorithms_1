@@ -1,8 +1,8 @@
-typescript
+# Typescript
 
 141.Linked List Cycle
 
-Swift
+# Swift
 
 007.ReverseInteger
 
