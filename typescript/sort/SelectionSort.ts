@@ -15,11 +15,9 @@ function selectionSort(array: number[]): number[] {
   return array;
 }
 
-console.time();
 const selectionArr = [130, 10, 50, 29, 48, 3, 42, 12, 69, 399, 4];
 const selection_result = selectionSort(selectionArr);
 console.log("result", selection_result);
-console.timeEnd();
 
 // Time complexity: O(n2)
 // space comlexity: 1
