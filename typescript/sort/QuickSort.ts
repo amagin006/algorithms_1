@@ -40,3 +40,6 @@ function partition(
 const quickArr = [130, 10, 50, 29, 48, 3, 42, 12, 69, 399, 4];
 const quick_result = quickSort(quickArr);
 console.log("result", quick_result);
+
+// Time complexity: O(n^2)
+// Space complexity: O(log n)
